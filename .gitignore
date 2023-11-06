@@ -1,3 +1,5 @@
 dockerfile
 docker-compose.yml
-
+config.py
+pycache
+migrations
